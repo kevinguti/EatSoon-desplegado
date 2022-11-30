@@ -1,7 +1,7 @@
 <?php
     
 /** URL raiz del proyecto */
-define('RUTA', 'https://eatsoon-production-1bf3.up.railway.app');
+define('RUTA', 'eat-soon-desplegado-agtmkm14s-kevinguti.vercel.app');
 
 $db_config = [
     'db_user' => 'root',
